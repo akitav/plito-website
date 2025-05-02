@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-section {
+  background-image: url('./assets/Illustration1.svg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
